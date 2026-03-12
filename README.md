@@ -2,7 +2,7 @@
 
 Animated trail-effect for the text cursor in [Ghostty](https://ghostty.org/) terminal.
 
-This repository currently features a **Boo-Cursor** shader designed to make it easier to track rapid cursor movement in general CLI use and editors like Vim/Neovim. Similarly to the look of the classic [Neovide](https://neovide.dev/) "ditto" animations, this effect is tuned to feel smooth, snappy and straight to the point.
+This repository currently features a **Boo-Cursor** shader designed to make it easier to track rapid cursor movement in general CLI use and editors like Vim/Neovim. Similar in look to the classic [Neovide](https://neovide.dev/), this effect is tuned to feel smooth, snappy and straight to the point.
 
 ## Boo-Cursor
 
