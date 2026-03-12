@@ -2,9 +2,9 @@
 
 ## Demos
 
-| Shader                              | Demo                                                                                                 |
-| --------                            | ------                                                                                               |
-| Boo-Cursor                          | ![boo-cursor](https://add-link)                                                                      |
+| Shader                              | Demo                                                                                                                       |
+| --------                            | ------                                                                                                                     |
+| Boo-Cursor                          | ![boo-cursor]([https://add-link](https://github.com/hced/ghostty-cursor-trails/raw/refs/heads/main/demos/boo-cursor.mp4))  |
 
 > [!NOTE]
 > If you are using the Line cursor (default in Ghostty), these effects will trigger and freeze when you unfocus the terminal (when the  cursor changes to hollow block). To prevent this from happening, add `custom-shader-animation = always` to your Ghostty config.
