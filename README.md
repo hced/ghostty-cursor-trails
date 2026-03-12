@@ -20,7 +20,7 @@ git clone https://github.com/hced/ghostty-cursor-trails ~/.config/ghostty/shader
 
 2. Enable it by adding this line in your `~/.config/ghostty/config`:
 ```config
-custom-shader = shaders/boo-cursor.glsl
+custom-shader = shaders/ghostty-cursor-trails/boo-cursor.glsl
 # ...
 ```
 
