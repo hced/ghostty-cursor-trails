@@ -1,6 +1,6 @@
 # Ghostty Cursor Trails
 
-## Demo: Boo-Cursor
+## Boo-Cursor
 
 https://github.com/user-attachments/assets/a65eabf1-0152-42a7-9e0c-e07448eeeb32
 
