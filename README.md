@@ -30,7 +30,7 @@ custom-shader = shaders/boo-cursor.glsl
 ```
 
 ## Acknowledgements
-Inspired by [Neovide](https://neovide.dev/) cursor animations and in part based on [ghostty-cursor-shaders](https://github.com/sahaj-b/ghostty-cursor-shaders).
+Inspired by [Neovide](https://neovide.dev/) cursor animations and partly derived from [ghostty-cursor-shaders](https://github.com/sahaj-b/ghostty-cursor-shaders).
 
 ## License
 
