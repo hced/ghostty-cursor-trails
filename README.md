@@ -26,7 +26,7 @@ custom-shader = shaders/boo-cursor.glsl
 
 3. Activate it by running this command line (Linux; use equivalent command for macOS/Windows):
 ```bash
-`systemctl reload --user app-com.mitchellh.ghostty.service`  # reload Ghostty config
+systemctl reload --user app-com.mitchellh.ghostty.service  # reload Ghostty config
 ```
 
 ## Acknowledgements
