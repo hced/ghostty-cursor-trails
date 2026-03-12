@@ -5,23 +5,28 @@
 https://github.com/user-attachments/assets/a65eabf1-0152-42a7-9e0c-e07448eeeb32
 
 > [!NOTE]
-> If you are using the Line cursor (default in Ghostty), these effects will trigger and freeze when you unfocus the terminal (when the  cursor changes to hollow block). To prevent this from happening, add `custom-shader-animation = always` to your Ghostty config.
+> If you are using the Line cursor (default in Ghostty), the effects from this shader will freeze when you unfocus the terminal as the cursor becomes a hollow block). You can prevent this by adding `custom-shader-animation = always` in your Ghostty config.
 
 ## Usage
 
-1. Clone the repo into your ghostty shaders directory:
+1. Clone the repo into your `~/.config/ghostty/shaders` directory:
 ```bash
 git clone https://github.com/hced/ghostty-cursor-trails ~/.config/ghostty/shaders
 ```
 
-2. In your `~/.config/ghostty/config`, add your shader like so:
+2. Enable it by adding this line in your `~/.config/ghostty/config`:
 ```config
 custom-shader = shaders/boo-cursor.glsl
 # ...
 ```
 
+3. Activate it by running this command line (Linux; use equivalent command for macOS/Windows):
+```bash
+`systemctl reload --user app-com.mitchellh.ghostty.service`  # reload Ghostty config
+```
+
 ## Acknowledgements
-Inspired by [Neovide](https://neovide.dev/) cursor animations and partially based on [ghostty-cursor-shaders](https://github.com/sahaj-b/ghostty-cursor-shaders).
+Inspired by [Neovide](https://neovide.dev/) cursor animations and in part based on [ghostty-cursor-shaders](https://github.com/sahaj-b/ghostty-cursor-shaders).
 
 ## License
 
