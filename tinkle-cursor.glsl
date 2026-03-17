@@ -169,7 +169,7 @@ vec4 TRAIL_COLOR = iCurrentCursorColor;
 // Use custom colors for start/end (interpolation between tail and head)
 // When enabled: trail interpolates from TRAIL_START_COLOR (tail) to TRAIL_END_COLOR (head)
 // When disabled: entire trail uses TRAIL_COLOR
-const float USE_CUSTOM_COLORS = 0.0;  // 1.0 = enable, 0.0 = disable
+const float USE_CUSTOM_COLORS = 1.0;  // 1.0 = enable, 0.0 = disable
 
 // Color at trail tail (t = 0.0, where animation starts)
 // Format: vec4(R, G, B, A) - alpha is respected and interpolated
