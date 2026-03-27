@@ -4,7 +4,7 @@ Animated trail-effect for the text cursor in [Ghostty](https://ghostty.org/) ter
 
 This repository features shaders designed to make it easier to track rapid cursor movement in your terminal and editors like Neovim. Reminiscent of the classic [Neovide](https://neovide.dev/), these shaders are tuned to feel snappy and to the point. ;)
 
-**Boo** is the least tweakable shader. **Tinkle** is moe powerful and provides a nice configuration section. **Wisp** is a configured version of Tinkle (and the author's recommendation).
+**Boo** is the least tweakable shader. **Tinkle** is more powerful and provides a nice configuration section. **Wisp** is a configured version of Tinkle (and the author's recommendation).
 
 ## Boo
 
