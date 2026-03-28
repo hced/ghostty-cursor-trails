@@ -12,7 +12,7 @@ https://github.com/user-attachments/assets/a65eabf1-0152-42a7-9e0c-e07448eeeb32
 
 ## Tinkle
 
-https://github.com/user-attachments/assets/22d6ee0b-a067-436c-a8fa-74ffc446885f
+https://github.com/user-attachments/assets/e5e4d654-5c4f-41f7-acaa-9851c3aab190
 
 > [!NOTE]
 > If you are using the Line cursor (default in Ghostty), the effects from this shader will freeze when you unfocus the terminal as the cursor becomes a hollow block). You can prevent this by adding `custom-shader-animation = always` in your Ghostty config.
