@@ -6,7 +6,7 @@ This repository features shaders designed to make it easier to track rapid curso
 
 ## Tinkle
 
-**Tinkle** provides a bunch of cool configuration options, and **Wisp** is a specially configured version of Tinkle (used by the author).
+**Tinkle** provides a bunch of cool configuration options, whereas **Wisp** is a specially configured version of Tinkle (used by the author).
 
 https://github.com/user-attachments/assets/e5e4d654-5c4f-41f7-acaa-9851c3aab190
 
